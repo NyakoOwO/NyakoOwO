@@ -1,3 +1,18 @@
+
+---
+## Software
+![Static Badge](https://img.shields.io/badge/Unity-333333?logo=unity)
+![Static Badge](https://img.shields.io/badge/Blender-E87D0D?logo=Blender&logoColor=white)
+
+
+---
+## Language　 　Databases
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white)　　
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+
 ---
 ## Social
 [![Static Badge](https://img.shields.io/badge/Nyako_OwO-505BE4?logo=discord&logoColor=white&label=Discord&labelColor=505BE4)](https://discord.gg/user/748010914158084227)
