@@ -6,7 +6,7 @@
 
 
 ---
-## Language 　  　Databases
+## Language 　  　 Databases
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white)　　
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
